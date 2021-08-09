@@ -31,5 +31,5 @@ npm run serve
 
 **Folder Structure**
 1. src
-    *index
-    *mainHeader
+    * index
+    * mainHeader
