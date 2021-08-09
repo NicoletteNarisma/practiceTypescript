@@ -20,7 +20,7 @@ git clone git@github.com:NicoletteNarisma/practiceTypescript.git
 
 # II. Development
 
-**To run the server**
+**Start dev server**
 ```
 npm run serve
 ```
