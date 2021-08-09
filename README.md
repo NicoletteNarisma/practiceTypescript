@@ -1,4 +1,4 @@
-# Express Typescript Boilerplate
+# Express JS Typescript Boilerplate
 
 ## I. Installation
 
