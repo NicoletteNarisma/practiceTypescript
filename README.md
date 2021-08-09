@@ -1,8 +1,6 @@
 # Express Typescript Boilerplate
 
-**Quickstart**
-
-**Install Dependencies**
+# Install Dependencies
 
 ```
 npm init - to install package.json
