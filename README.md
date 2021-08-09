@@ -24,5 +24,5 @@ git clone git@github.com:NicoletteNarisma/practiceTypescript.git
 ```
 npm run serve
 
-API Server running at http://localhost:8000
+1. API Server running at http://localhost:8000
 ```
