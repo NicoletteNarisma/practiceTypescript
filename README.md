@@ -13,14 +13,14 @@ npm install --save-dev typescript
 
 ```
 
-***Clone this repo**
+**Clone this repo**
 ```
 git clone git@github.com:NicoletteNarisma/practiceTypescript.git
 ```
 
 ### II. Development
 
-***Start dev server**
+**Start dev server**
 ```
 npm run serve
 
@@ -28,3 +28,8 @@ npm run serve
 ```
 
 #### III. Environment
+
+**Folder Structure**
+1. src
+    *index
+    *mainHeader
