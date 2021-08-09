@@ -15,5 +15,5 @@ npm install --save-dev typescript
 
 **Clone this repo**
 ```
-
+git clone git@github.com:NicoletteNarisma/practiceTypescript.git
 ```
