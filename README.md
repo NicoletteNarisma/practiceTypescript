@@ -1,6 +1,6 @@
 # Express Typescript Boilerplate
 
-# Install Dependencies
+# I. Install Dependencies
 
 ```
 npm init - to install package.json
@@ -10,5 +10,10 @@ npm install --save-dev @types/node
 npm install --save-dev nodemon
 npm install --save-dev ts-node
 npm install --save-dev typescript
+
+```
+
+**Clone this repo**
+```
 
 ```
