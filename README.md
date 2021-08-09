@@ -1,6 +1,6 @@
 # Express Typescript Boilerplate
 
-# I. Install Dependencies
+# I. Installation
 
 ```
 npm init - to install package.json
@@ -16,4 +16,11 @@ npm install --save-dev typescript
 **Clone this repo**
 ```
 git clone git@github.com:NicoletteNarisma/practiceTypescript.git
+```
+
+# II. Development
+
+**To run the server**
+```
+npm run serve
 ```
