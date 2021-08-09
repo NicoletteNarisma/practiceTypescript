@@ -1,3 +1,1 @@
-# practiceTypescript
-
-**Express Typescript Boilerplate**
+# Express Typescript Boilerplate
