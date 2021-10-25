@@ -1,9 +1,12 @@
-import { BaseController } from "./baseController";
-import { UserService } from "../services/userService";
+import { BaseController } from './baseController';
+import { UserService } from '../services/userService';
 
 export class UserController extends BaseController  {
-    constructor() {
-        super(new UserService) 
-            
-    }
+  constructor() {
+    super(new UserService);
+
+    this.hasBrowse = true;
+    this.hasRead = true;
+
+  }
 }

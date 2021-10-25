@@ -1,9 +1,13 @@
 import express from 'express';
-import route from './routes';
+import routes from './routes';
+import { config }  from './config/config';
+import { initModels } from './models';
+
+initModels();
 
 const app = express();
-const port = 8000;
 
-app.use(route);
-app.listen(port);
-console.log("Server is running...");
+app.use(routes);
+app.listen(config.port);
+console.log('Server is running...');
+console.log(config);

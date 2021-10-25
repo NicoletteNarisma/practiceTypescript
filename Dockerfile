@@ -1,0 +1,10 @@
+ENV ENV=development
+
+ENV PORT=8000
+
+ENV DB_HOST=localhost
+ENV DB_PORT=8000
+ENV DB_USER=postgres
+ENV DB_PASSWORD=testuser
+ENV DB_DATABASE=postgres
+ENV DB_DIALECT=postgres
